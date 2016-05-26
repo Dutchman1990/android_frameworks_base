@@ -5408,7 +5408,19 @@ public final class Settings {
          * @hide
          */
         public static final String QS_SMART_PULLDOWN = "qs_smart_pulldown";
-
+        
+        /**
+         * change quick settings tiles animation style
+         * @hide
+         */
+        public static final String ANIM_TILE_STYLE = "anim_tile_style";
+        
+        /**
+         **chnage quick settings tiles animation duration
+         *@hide
+         */
+        public static final String ANIM_TILE_DURATION = "anim_tile_duration";
+        
         /**
          * Quick Settings Color Switch
          * @hide
